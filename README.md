@@ -10,7 +10,7 @@ This is a list of resources on how/why to do a PhD
 * http://karpathy.github.io/2016/09/07/phd/
 
 ## Proposal writing:
-* http://spaf.cerias.purdue.edu/StudentInfo/Lauer.html
+* http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
 
 ## Thesis writing:
 * http://people.kmi.open.ac.uk/stefan/thesis-writing.pdf
