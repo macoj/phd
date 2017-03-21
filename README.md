@@ -23,7 +23,16 @@ This is a list of resources on how/why to do a PhD
 * http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
 
 # Books
+## Science 
+* Chalmers, Alan F. What is this thing called science?. Hackett Publishing, 2013.
+* Okasha, Samir. Philosophy of Science: Very Short Introduction. Oxford University Press, 2016.
+
 ## Writing Science
 * Schimiel, J. (2011). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded. Oxford University Press. 
+
 ## Statistics
 * DeGroot, M. H., & Schervish, M. J. (2012). Probability and Statistics (4th ed.). Addison-Wesley.
+
+# Nice Wikipedia pages
+* https://en.wikipedia.org/wiki/Philosophy_of_science
+* https://en.wikipedia.org/wiki/List_of_fallacies
