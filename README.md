@@ -19,6 +19,9 @@ This is a list of resources on how/why to do a PhD
 * https://www.uni-goettingen.de/de/document/download/5fb4239f7b0c852ff840df93f2d0fca9-en.pdf/ThesisguidelinesGGNB201604.pdf
 * http://www.aral.com.au/resources/cperry.pdf
 
+## Presentations
+* http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
+
 # Books
 ## Writing Science
 * Schimiel, J. (2011). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded. Oxford University Press. 
