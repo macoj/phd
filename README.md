@@ -8,6 +8,7 @@ This is a list of resources on how/why to do a PhD
 # On how:
 ## Overall 
 * http://karpathy.github.io/2016/09/07/phd/
+* http://www.cs.indiana.edu/how.2b/how.2b.html
 
 ## Proposal writing:
 * http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
