@@ -1,7 +1,7 @@
 # PhD
 This is a list of resources on how/why to do a PhD
 
-# On why:
+# On why / why not:
 * http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
 * https://www.cs.purdue.edu/homes/dec/essay.phd.html
 * https://www.cs.unc.edu/~azuma/hitch4.html
