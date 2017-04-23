@@ -12,6 +12,9 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://karpathy.github.io/2016/09/07/phd/
 * http://www.cs.indiana.edu/how.2b/how.2b.html
 
+## Reading a paper
+* http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt
+
 ## Proposal writing:
 * http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
 
