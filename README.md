@@ -34,6 +34,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://pages.cs.wisc.edu/~markhill/conference-talk.html
 * [presentation] http://www.cs.dartmouth.edu/~scot/givingTalks/
 * [includes video] https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/
+* http://njn.valgrind.org/good-talk.html
 
 # Books
 ## Science 
