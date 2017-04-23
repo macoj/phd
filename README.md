@@ -14,6 +14,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 
 ## Reading a paper
 * http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt
+* http://cs.gmu.edu/~offutt/classes/phd/Hints-Read.html
 
 ## Proposal writing:
 * http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
