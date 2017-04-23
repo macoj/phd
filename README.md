@@ -22,8 +22,18 @@ This is a list of resources on how/why to do a PhD
 * https://www.uni-goettingen.de/de/document/download/5fb4239f7b0c852ff840df93f2d0fca9-en.pdf/ThesisguidelinesGGNB201604.pdf
 * http://www.aral.com.au/resources/cperry.pdf
 
+## Research paper writing 
+* https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
+
+## Grant proposal writing
+* https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/
+
 ## Presentations
 * http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
+* http://cs.au.dk/~danvy/talk.html
+* http://pages.cs.wisc.edu/~markhill/conference-talk.html
+* [presentation] http://www.cs.dartmouth.edu/~scot/givingTalks/
+* [includes video] https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/
 
 # Books
 ## Science 
