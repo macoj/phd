@@ -1,5 +1,5 @@
 # PhD
-This is a list of resources on how/why to do a PhD
+A working-in-progress list of resources on how/why to do a PhD. 
 
 # On why / why not:
 * http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
