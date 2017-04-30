@@ -98,3 +98,4 @@ A working-in-progress list of resources on how/why to do a PhD.
 
 # Similar lists
 * https://www.cs.tufts.edu/~nr/students/
+* http://www.ece.ucsb.edu/~yuanxie/Advice.html
