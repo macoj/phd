@@ -13,6 +13,12 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://karpathy.github.io/2016/09/07/phd/
 * http://www.cs.indiana.edu/how.2b/how.2b.html
 * http://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html
+* https://www.cs.tufts.edu/~nr/students/decisions.txt
+* https://www.cs.tufts.edu/~nr/students/clk.html
+* https://www.cs.tufts.edu/~nr/students/guide.pdf
+
+## Admission
+* https://www.cs.tufts.edu/~nr/students/admit.html
 
 ## Reading a paper
 * http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt
@@ -37,6 +43,9 @@ A working-in-progress list of resources on how/why to do a PhD.
 * [presentation] https://www.cs.cmu.edu/~priya/ICSOC-PhDSymp-2006-dist.pdf
 * https://www.uni-goettingen.de/de/document/download/5fb4239f7b0c852ff840df93f2d0fca9-en.pdf/ThesisguidelinesGGNB201604.pdf
 * http://www.aral.com.au/resources/cperry.pdf
+* https://www.cs.tufts.edu/~nr/students/shivers-thesis.html
+* https://www.cs.tufts.edu/~nr/students/dec/essay.dissertation.html
+* http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html
 
 ## Research paper writing 
 * https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
@@ -44,6 +53,9 @@ A working-in-progress list of resources on how/why to do a PhD.
 
 ## Grant proposal writing
 * https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/
+
+## General writing
+* https://www.cs.tufts.edu/~nr/students/writing.html
 
 ## Presentations
 * http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
@@ -54,6 +66,14 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://njn.valgrind.org/good-talk.html
 * http://www.comm.utoronto.ca/frank/guide/guide0.html
 * http://www.cs.cornell.edu/cv/ShortTalk.htm
+* http://www.cs.duke.edu/brd/Teaching/Giving-a-talk/giving-a-talk.html
+* http://pne.people.si.umich.edu/PDF/howtotalk.pdf
+* https://www.cs.tufts.edu/~nr/students/talks.html
+* https://www.cs.tufts.edu/~nr/misc/badtalks.html
+
+## Getting an academic job
+* http://homes.cs.washington.edu/~mernst/advice/academic-job.html
+* https://www.cs.tufts.edu/~nr/students/job.html
 
 # English
 * http://www.bartleby.com/141/index.html
@@ -72,3 +92,6 @@ A working-in-progress list of resources on how/why to do a PhD.
 # Nice Wikipedia pages
 * https://en.wikipedia.org/wiki/Philosophy_of_science
 * https://en.wikipedia.org/wiki/List_of_fallacies
+
+# Similar lists
+* https://www.cs.tufts.edu/~nr/students/
