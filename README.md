@@ -33,6 +33,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf
 * https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously
 * http://science.sciencemag.org/content/325/5942/828
+* http://pne.people.si.umich.edu/PDF/howtoread.pdf
 
 ## Proposal writing:
 * http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
@@ -70,6 +71,8 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://pne.people.si.umich.edu/PDF/howtotalk.pdf
 * https://www.cs.tufts.edu/~nr/students/talks.html
 * https://www.cs.tufts.edu/~nr/misc/badtalks.html
+* https://larc.unt.edu/ian/pubs/speaker.pdf
+* https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf
 
 ## Getting an academic job
 * http://homes.cs.washington.edu/~mernst/advice/academic-job.html
