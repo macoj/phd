@@ -47,6 +47,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 * https://www.cs.tufts.edu/~nr/students/shivers-thesis.html
 * https://www.cs.tufts.edu/~nr/students/dec/essay.dissertation.html
 * http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html
+* http://www-users.cs.umn.edu/~carlis/one-draft.pdf
 
 ## Research paper writing 
 * https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
