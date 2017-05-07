@@ -52,6 +52,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 ## Research paper writing 
 * https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
 * http://www.ams.org/notices/200711/tx071101507p.pdf
+* https://jarisaramaki.fi/2017/05/04/how-to-write-a-great-abstract/
 
 ## Grant proposal writing
 * https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/
