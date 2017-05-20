@@ -2,11 +2,11 @@
 A working-in-progress list of resources on how/why to do a PhD. 
 
 # On why / why not:
-* http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
-* https://www.cs.purdue.edu/homes/dec/essay.phd.html
-* https://www.cs.unc.edu/~azuma/hitch4.html
-* http://shouldigetaphd.com/
-* http://cseweb.ucsd.edu/~mihir/phd.html
+* *Tough love: An insensitive guide to thriving in your PhD* by Chris Chambers: http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
+* *Notes On The PhD Degree* https://www.cs.purdue.edu/homes/dec/essay.phd.html
+* *“So long, and thanks for the Ph.D.!” a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later.* by Ronald T. Azuma: https://www.cs.unc.edu/~azuma/hitch4.html
+* *Should I get a Ph.D.?* by Tim Hopper: http://shouldigetaphd.com/
+* *The Ph.D Experience* by Mihir Bellare: http://cseweb.ucsd.edu/~mihir/phd.html
 
 # On how:
 ## Overall 
@@ -90,6 +90,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 
 ## Writing Science
 * Schimiel, J. (2011). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded. Oxford University Press. 
+* Silvia, Paul J. How to write a lot: A practical guide to productive academic writing. American Psychological Association, 2007.
 
 ## Statistics
 * DeGroot, M. H., & Schervish, M. J. (2012). Probability and Statistics (4th ed.). Addison-Wesley.
