@@ -15,15 +15,22 @@ A working-in-progress list of resources on how/why to do a PhD.
 
 # On how:
 ## Overall 
-* http://karpathy.github.io/2016/09/07/phd/
-* http://www.cs.indiana.edu/how.2b/how.2b.html
-* http://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html
-* https://www.cs.tufts.edu/~nr/students/decisions.txt
-* https://www.cs.tufts.edu/~nr/students/clk.html
-* https://www.cs.tufts.edu/~nr/students/guide.pdf
+* *A Survival Guide to a PhD* by Andrej Karpathy
+  * http://karpathy.github.io/2016/09/07/phd/
+* *How to Be a Good Graduate Student* by Marie desJardins
+  * http://www.cs.indiana.edu/how.2b/how.2b.html
+* *Ten Lessons I wish I had been Taught* by Gian-Carlo Rota
+  * http://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html
+* *Making Key Research Decisions* (excerpt from *500 Tips for Research Students)* by Sally Brown, Liz McDowell and Phil Race
+  * https://www.cs.tufts.edu/~nr/students/decisions.txt
+* *What Am I Doing Here? A Guide to the Unwritten Rules of Grad School in the Sciences* by Cory Kerens
+  * https://www.cs.tufts.edu/~nr/students/clk.html
+* *Working with Norman Ramsey: a Guide for Research Students* by Norman Ramsey
+  * https://www.cs.tufts.edu/~nr/students/guide.pdf
 
 ## Admission
-* https://www.cs.tufts.edu/~nr/students/admit.html
+* *How to get admitted to a PhD program* by Norman Ramsey
+  * https://www.cs.tufts.edu/~nr/students/admit.html
 
 ## Reading a paper
 * http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt
