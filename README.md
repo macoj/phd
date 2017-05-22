@@ -89,6 +89,8 @@ A working-in-progress list of resources on how/why to do a PhD.
 ## General writing
 * *Norman Ramsey's Resources for Writers* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/students/writing.html
+* *Learning Technical Writing Using the Engineering Method* by Norman Ramsey
+  * https://www.cs.tufts.edu/~nr/pubs/learn.pdf
 
 ## Presentations
 * http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
