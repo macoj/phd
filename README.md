@@ -83,10 +83,12 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html
 
 ## Grant proposal writing
-* https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/
+* *How to write a great research proposal* by Simon Peyton Jones and Alan Bundy
+  * https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/
 
 ## General writing
-* https://www.cs.tufts.edu/~nr/students/writing.html
+* *Norman Ramsey's Resources for Writers* by Norman Ramsey
+  * https://www.cs.tufts.edu/~nr/students/writing.html
 
 ## Presentations
 * http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
