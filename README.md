@@ -27,10 +27,20 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://www.cs.tufts.edu/~nr/students/clk.html
 * *Working with Norman Ramsey: a Guide for Research Students* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/students/guide.pdf
+* http://pgbovine.net/early-stage-PhD-advice.htm
+* http://stearnslab.yale.edu/some-modest-advice-graduate-students
+* https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/
+* http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers
+* http://matt.might.net/articles/ways-to-fail-a-phd/
 
 ## Admission
 * *How to get admitted to a PhD program* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/students/admit.html
+* http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html
+* http://www.danah.org/GradSchoolAdvice.html
+* http://jxyzabc.blogspot.my/2012/10/faq-applying-to-graduate-school-for.html
+* http://jxyzabc.blogspot.my/2009/02/some-notes-on-picking-grad.html
+* http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html
 
 ## Reading a paper
 * *How to read a research paper* by Spencer Rugaber
