@@ -33,19 +33,30 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://www.cs.tufts.edu/~nr/students/admit.html
 
 ## Reading a paper
-* http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt
-* http://cs.gmu.edu/~offutt/classes/phd/Hints-Read.html
-* http://www.imsc.res.in/~meena/mitzenmacher-ReadPaper.pdf
-* http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper
-* https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper
-* https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html
-* http://ccr.sigcomm.org/online/files/p83-keshavA.pdf
-* http://webpages.uncc.edu/tbarnes2/SeriousGames/papers/ReadingResearchPaper.pdf
-* http://web.stanford.edu/~siegelr/readingsci.htm
-* http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf
-* https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously
-* http://science.sciencemag.org/content/325/5942/828
-* http://pne.people.si.umich.edu/PDF/howtoread.pdf
+* *How to read a research paper* by Spencer Rugaber
+  * http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt
+* *Thoughts on Reading Research Papers* by Jeff Offutt
+  * http://cs.gmu.edu/~offutt/classes/phd/Hints-Read.html
+* *How to read a research paper* by Meena Mahajan
+  * http://www.imsc.res.in/~meena/mitzenmacher-ReadPaper.pdf
+* *How to (seriously) read a scientific paper* by  Elisabeth Pain
+  * http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper
+* *Infographic: How to read a scientific paper* by Natalia Rodriguez 
+  * https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper
+* *How to Read an Engineering Research Paper* by William G. Griswold 
+  * https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html
+* *How to Read a Paper* by S. Keshav
+  * http://ccr.sigcomm.org/online/files/p83-keshavA.pdf
+* *How to read a research paper* by Tiffany Barnes
+  * http://webpages.uncc.edu/tbarnes2/SeriousGames/papers/ReadingResearchPaper.pdf
+* *Reading Scientific Papers* by Robert Siegel
+  * http://web.stanford.edu/~siegelr/readingsci.htm
+* *How to Read a Scientific Article* by Mary Purugganan and Jan Hewitt
+  * http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf
+* *Strategic Reading, Ontologies, and the Future of Scientific Publishing* by Allen H. Renear and Carole L. Palmer
+  * http://science.sciencemag.org/content/325/5942/828
+* *How to  Read a Book* by Paul N. Edwards
+  * http://pne.people.si.umich.edu/PDF/howtoread.pdf
 
 ## Proposal writing:
 * http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
@@ -62,6 +73,8 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://www-users.cs.umn.edu/~carlis/one-draft.pdf
 
 ## Research paper writing 
+* *11 steps to structuring a science paper editors will take seriously* by Angel Borja 
+  * https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously
 * https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
 * http://www.ams.org/notices/200711/tx071101507p.pdf
 * https://jarisaramaki.fi/2017/05/04/how-to-write-a-great-abstract/
