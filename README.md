@@ -47,7 +47,7 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt
 * *Thoughts on Reading Research Papers* by Jeff Offutt
   * http://cs.gmu.edu/~offutt/classes/phd/Hints-Read.html
-* *How to read a research paper* by Meena Mahajan
+* *How to read a research paper* by Michael Mitzenmacher
   * http://www.imsc.res.in/~meena/mitzenmacher-ReadPaper.pdf
 * *How to (seriously) read a scientific paper* by  Elisabeth Pain
   * http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper
