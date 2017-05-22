@@ -91,6 +91,8 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://www.cs.tufts.edu/~nr/students/writing.html
 * *Learning Technical Writing Using the Engineering Method* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/pubs/learn.pdf
+* *Writing Tips for Ph.  D. Students* by John H. Cochrane
+  * https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf
 
 ## Presentations
 * http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
