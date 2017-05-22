@@ -59,7 +59,8 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://pne.people.si.umich.edu/PDF/howtoread.pdf
 
 ## Proposal writing:
-* http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
+* *On Ph.D. thesis proposals in computing science* by H. C. Lauer 
+  * http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
 
 ## Thesis writing:
 * http://people.kmi.open.ac.uk/stefan/thesis-writing.pdf
