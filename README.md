@@ -142,6 +142,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 # Nice Wikipedia pages
 * https://en.wikipedia.org/wiki/Philosophy_of_science
 * https://en.wikipedia.org/wiki/List_of_fallacies
+* https://en.wikipedia.org/wiki/IMRAD
 
 # Similar lists
 * https://www.cs.tufts.edu/~nr/students/
