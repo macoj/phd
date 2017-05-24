@@ -126,6 +126,10 @@ A working-in-progress list of resources on how/why to do a PhD.
 
 # English
 * http://www.bartleby.com/141/index.html
+* https://prowritingaid.com/en/Collocation/Dictionary?word=search
+* http://www.just-the-word.com/
+* http://www.wordhippo.com/
+* http://www.freecollocation.com/
 
 # Books
 ## Science 
