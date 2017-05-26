@@ -27,11 +27,16 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://www.cs.tufts.edu/~nr/students/clk.html
 * *Working with Norman Ramsey: a Guide for Research Students* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/students/guide.pdf
-* http://pgbovine.net/early-stage-PhD-advice.htm
-* http://stearnslab.yale.edu/some-modest-advice-graduate-students
-* https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/
-* http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers
-* http://matt.might.net/articles/ways-to-fail-a-phd/
+* *Advice for new Ph.D. students* by Philip Guo
+  * http://pgbovine.net/early-stage-PhD-advice.htm
+* *Some Modest Advice for Graduate Students* by Stephen C. Stearn 
+  * http://stearnslab.yale.edu/some-modest-advice-graduate-students
+* *Realistic expectations keep you on the path to a PhD*
+  * https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/2015739.article
+* *Advice for students and junior researchers* by Markus Jakobsson
+  * http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers
+* *10 easy ways to fail a Ph.D.* by Matt Might
+  * http://matt.might.net/articles/ways-to-fail-a-phd/
 
 ## Admission
 * *How to get admitted to a PhD program* by Norman Ramsey
