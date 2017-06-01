@@ -149,7 +149,8 @@ A working-in-progress list of resources on how/why to do a PhD.
 
 ## Writing Science
 * Schimiel, J. (2011). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded. Oxford University Press. 
-* Silvia, Paul J. (2007) How to write a lot: A practical guide to productive academic writing. American Psychological Association.
+* Silvia, P. J. (2007) How to write a lot: A practical guide to productive academic writing. American Psychological Association.
+* White, E. B., and Strunk, W. (2014) The elements of style. Pearson Education Limited.
 
 ## Statistics
 * DeGroot, M. H., & Schervish, M. J. (2012). Probability and Statistics (4th ed.). Addison-Wesley.
