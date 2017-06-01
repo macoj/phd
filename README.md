@@ -135,6 +135,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://www.just-the-word.com/
 * http://www.wordhippo.com/
 * http://www.freecollocation.com/
+* http://www.roget.org/
 
 # Books
 ## Science 
