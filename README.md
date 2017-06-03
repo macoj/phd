@@ -78,11 +78,16 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
 
 ## Thesis writing:
-* http://people.kmi.open.ac.uk/stefan/thesis-writing.pdf
-* http://newt.phys.unsw.edu.au/~jw/thesis.html
-* [presentation] https://www.cs.cmu.edu/~priya/ICSOC-PhDSymp-2006-dist.pdf
-* https://www.uni-goettingen.de/de/document/download/5fb4239f7b0c852ff840df93f2d0fca9-en.pdf/ThesisguidelinesGGNB201604.pdf
-* http://www.aral.com.au/resources/cperry.pdf
+* *How to write a good PhD thesis and survive the viva* by Stefan Rüger
+  * http://people.kmi.open.ac.uk/stefan/thesis-writing.pdf
+* *How to Write a PhD Thesis* by Joe Wolfe 
+  * http://newt.phys.unsw.edu.au/~jw/thesis.html
+* *How To Write a Good (no, Great) PhD Dissertation* by Priya Narasimhan
+  * https://www.cs.cmu.edu/~priya/ICSOC-PhDSymp-2006-dist.pdf
+* *How to write a Ph.D. thesis* by Reinhard Jahn
+  * https://www.uni-goettingen.de/de/document/download/5fb4239f7b0c852ff840df93f2d0fca9-en.pdf/ThesisguidelinesGGNB201604.pdf
+* *A Structured Approach to Presenting Thesis* by ChadPerry 
+  * http://www.aral.com.au/resources/cperry.pdf
 * https://www.cs.tufts.edu/~nr/students/shivers-thesis.html
 * https://www.cs.tufts.edu/~nr/students/dec/essay.dissertation.html
 * http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html
