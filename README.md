@@ -1,7 +1,7 @@
 # PhD
 A working-in-progress list of resources on how/why to do a PhD. 
 
-# On why / why not:
+# ON WHY (NOT)
 * *Tough love: An insensitive guide to thriving in your PhD* by Chris Chambers
   * http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
 * *Notes On The PhD Degree* 
@@ -13,7 +13,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 * *The Ph.D Experience* by Mihir Bellare
   * http://cseweb.ucsd.edu/~mihir/phd.html
 
-# On how:
+# ON HOW
 ## Overall 
 * *A Survival Guide to a PhD* by Andrej Karpathy
   * http://karpathy.github.io/2016/09/07/phd/
@@ -73,11 +73,12 @@ A working-in-progress list of resources on how/why to do a PhD.
 * *How to  Read a Book* by Paul N. Edwards
   * http://pne.people.si.umich.edu/PDF/howtoread.pdf
 
-## Proposal writing:
+## On Writing
+### Proposal writing:
 * *On Ph.D. thesis proposals in computing science* by H. C. Lauer 
   * http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
 
-## Thesis writing:
+### Thesis writing:
 * *How to write a good PhD thesis and survive the viva* by Stefan Rüger
   * http://people.kmi.open.ac.uk/stefan/thesis-writing.pdf
 * *How to Write a PhD Thesis* by Joe Wolfe 
@@ -97,7 +98,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 * *Design:The Key to Writing (and Advising) a One-Draft Ph.D Dissertation* by John V. Carlis
   * http://www-users.cs.umn.edu/~carlis/one-draft.pdf
 
-## Research paper writing 
+### Research paper writing 
 * *11 steps to structuring a science paper editors will take seriously* by Angel Borja 
   * https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously
 * https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
@@ -106,11 +107,11 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://dblab.cs.toronto.edu/~miller/index.php?p=resources
 * http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html
 
-## Grant proposal writing
+### Grant proposal writing
 * *How to write a great research proposal* by Simon Peyton Jones and Alan Bundy
   * https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/
 
-## General writing
+### General writing
 * *Norman Ramsey's Resources for Writers* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/students/writing.html
 * *Learning Technical Writing Using the Engineering Method* by Norman Ramsey
