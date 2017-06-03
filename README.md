@@ -88,10 +88,14 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://www.uni-goettingen.de/de/document/download/5fb4239f7b0c852ff840df93f2d0fca9-en.pdf/ThesisguidelinesGGNB201604.pdf
 * *A Structured Approach to Presenting Thesis* by ChadPerry 
   * http://www.aral.com.au/resources/cperry.pdf
-* https://www.cs.tufts.edu/~nr/students/shivers-thesis.html
-* https://www.cs.tufts.edu/~nr/students/dec/essay.dissertation.html
-* http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html
-* http://www-users.cs.umn.edu/~carlis/one-draft.pdf
+* *Dissertation Advice* by Olin Shivers 
+  * https://www.cs.tufts.edu/~nr/students/shivers-thesis.html
+* *How To Write A Dissertation or Bedtime Reading For People Who Do Not Have Time To Sleep* by Doug Comer
+  * https://www.cs.tufts.edu/~nr/students/dec/essay.dissertation.html
+* *Margo's Tips on Writing a Thesis* by Margo
+  * http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html
+* *Design:The Key to Writing (and Advising) a One-Draft Ph.D Dissertation* by John V. Carlis
+  * http://www-users.cs.umn.edu/~carlis/one-draft.pdf
 
 ## Research paper writing 
 * *11 steps to structuring a science paper editors will take seriously* by Angel Borja 
