@@ -1,7 +1,7 @@
 # PhD
 A working-in-progress list of resources on how/why to do a PhD. 
 
-# ON WHY (NOT)
+# ON "WHY"
 * *Tough love: An insensitive guide to thriving in your PhD* by Chris Chambers
   * http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
 * *Notes On The PhD Degree* 
@@ -13,7 +13,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 * *The Ph.D Experience* by Mihir Bellare
   * http://cseweb.ucsd.edu/~mihir/phd.html
 
-# ON HOW
+# ON "HOW"
 ## Overall 
 * *A Survival Guide to a PhD* by Andrej Karpathy
   * http://karpathy.github.io/2016/09/07/phd/
@@ -139,6 +139,16 @@ A working-in-progress list of resources on how/why to do a PhD.
 * http://homes.cs.washington.edu/~mernst/advice/academic-job.html
 * https://www.cs.tufts.edu/~nr/students/job.html
 
+## Paper reviewing 
+* *Accepting an invitation to review* 
+  * https://www.springer.com/gp/authors-editors/authorandreviewertutorials/howtopeerreview/accepting-an-invitation-to-review/10286396
+* *So you’ve been asked to review a manuscript? – Tips for the novice reviewer* by Chris Parsons* 
+  * http://www.southernfriedscience.com/so-youve-been-asked-to-review-a-manuscript-tips-for-the-novice-reviewer/
+* *How, when and why to say no to a review request* by Andrew Moore
+  * https://hub.wiley.com/community/exchanges/discover/blog/2015/03/12/how-when-and-why-to-say-no-to-a-review-request
+* *Tips for first time peer reviewers: Accepting a peer review invitation* by Kakoli Majumde 
+  * http://www.editage.com/insights/tips-for-first-time-peer-reviewers-accepting-a-peer-review-invitation 
+  
 # English
 * http://www.bartleby.com/141/index.html
 ## Collocation
