@@ -41,11 +41,14 @@ A working-in-progress list of resources on how/why to do a PhD.
 ## Admission
 * *How to get admitted to a PhD program* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/students/admit.html
-* http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html
-* http://www.danah.org/GradSchoolAdvice.html
-* http://jxyzabc.blogspot.my/2012/10/faq-applying-to-graduate-school-for.html
-* http://jxyzabc.blogspot.my/2009/02/some-notes-on-picking-grad.html
-* http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html
+* *CS Grad School Part 1: Deciding to Apply* by Jean Yang
+  * http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html
+* *Choosing the Right Grad School* by Danah Boyd
+  * http://www.danah.org/GradSchoolAdvice.html
+* *FAQ: Applying to Graduate School for Computer Science* by Jean Yang
+  * http://jxyzabc.blogspot.my/2012/10/faq-applying-to-graduate-school-for.html
+* *Some notes on picking grad schools/advisors* by Jean Yang
+  * http://jxyzabc.blogspot.my/2009/02/some-notes-on-picking-grad.html
 
 ## Reading a paper
 * *How to read a research paper* by Spencer Rugaber
