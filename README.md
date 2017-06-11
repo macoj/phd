@@ -101,11 +101,18 @@ A working-in-progress list of resources on how/why to do a PhD.
 ### Research paper writing 
 * *11 steps to structuring a science paper editors will take seriously* by Angel Borja 
   * https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously
-* https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
-* http://www.ams.org/notices/200711/tx071101507p.pdf
-* https://jarisaramaki.fi/2017/05/04/how-to-write-a-great-abstract/
-* http://dblab.cs.toronto.edu/~miller/index.php?p=resources
-* http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html
+* *How to write a great research paper* by Simon Peyton Jones
+ * https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
+* *How to Write Your First Paper* by Steven G. Krantz
+  * http://www.ams.org/notices/200711/tx071101507p.pdf
+* *HOW TO WRITE A GREAT ABSTRACT* by Jari Saramäki
+  * https://jarisaramaki.fi/2017/05/04/how-to-write-a-great-abstract/
+* *Computer Science Writing Advice* by Renée J. Miller
+  * http://dblab.cs.toronto.edu/~miller/index.php?p=resources
+* *Common Bugs in Writing* by Henning Schulzrinne
+  * http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html
+* *Writing Technical Articles* by Henning Schulzrinne
+  * http://www.cs.columbia.edu/~hgs/etc/writing-style.html
 
 ### Grant proposal writing
 * *How to write a great research proposal* by Simon Peyton Jones and Alan Bundy
