@@ -1,6 +1,32 @@
 # PhD
 A working-in-progress list of resources on how/why to do a PhD. 
 
+# Contents
+- [ON "WHY"](#on-why) 
+- [ON "HOW"](#on-how)
+  - [Overall](#overall)
+  - [Admission](#admission)
+  - [Reading a paper](#reading-a-paper)
+  - [On writing](#on-writing)
+    - [Proposal writing](#proposal-writing)
+    - [Thesis writing](#thesis-writing)
+    - [Research paper writing](#research-paper-writing)
+    - [Grant proposal writing](#grant-proposal-writing)
+    - [General writing](#general-writing)
+  - [Presentations](#presentations)
+  - [Getting an academic job](#getting-an-academic-job)
+  - [Paper reviewing](#paper-reviewing)
+- [ENGLISH](#english)
+  - [Collocation](#collocation)
+  - [Dictionary](#dictionary)
+  - [Thesaurus](#thesaurus)
+- [BOOKS](#books)
+  - [Science](#science)
+  - [Writing Science](#writing-science)
+  - [Statistics](#statistics)
+- [Nice Wikipedia pages](#nice-wikipedia-pages)
+- [Similar lists](#similar-lists)
+
 # ON "WHY"
 * *Tough love: An insensitive guide to thriving in your PhD* by Chris Chambers
   * http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
@@ -77,11 +103,11 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://pne.people.si.umich.edu/PDF/howtoread.pdf
 
 ## On Writing
-### Proposal writing:
+### Proposal writing
 * *On Ph.D. thesis proposals in computing science* by H. C. Lauer 
   * http://www.mi.fu-berlin.de/wiki/pub/Mi/PromotionsVerfahren/Lauer75.pdf
 
-### Thesis writing:
+### Thesis writing
 * *How to write a good PhD thesis and survive the viva* by Stefan Rüger
   * http://people.kmi.open.ac.uk/stefan/thesis-writing.pdf
 * *How to Write a PhD Thesis* by Joe Wolfe 
