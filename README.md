@@ -2,8 +2,8 @@
 A working-in-progress list of resources on how/why to do a PhD. 
 
 # Contents
-- [ON "WHY"](#on-why) 
-- [ON "HOW"](#on-how)
+- [On why (or why not)](#on-why) 
+- [On how](#on-how)
   - [Overall](#overall)
   - [Admission](#admission)
   - [Reading a paper](#reading-a-paper)
@@ -27,19 +27,22 @@ A working-in-progress list of resources on how/why to do a PhD.
 - [Nice Wikipedia pages](#nice-wikipedia-pages)
 - [Similar lists](#similar-lists)
 
-# ON "WHY"
-* *Tough love: An insensitive guide to thriving in your PhD* by Chris Chambers
-  * http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
-* *Notes On The PhD Degree* 
-  * https://www.cs.purdue.edu/homes/dec/essay.phd.html
-* *“So long, and thanks for the Ph.D.!” a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later.* by Ronald T. Azuma
-  * https://www.cs.unc.edu/~azuma/hitch4.html
-* *Should I get a Ph.D.?* by Tim Hopper
-  * http://shouldigetaphd.com/
+# On why (or why not) to pursue a Ph.D.
 * *The Ph.D Experience* by Mihir Bellare
   * http://cseweb.ucsd.edu/~mihir/phd.html
+* *Should I get a Ph.D.?* by Tim Hopper
+  * http://shouldigetaphd.com/
+* *Notes On The PhD Degree* 
+  * https://www.cs.purdue.edu/homes/dec/essay.phd.html
+* *Tough love: An insensitive guide to thriving in your PhD* by Chris Chambers
+  * http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
+* *Realistic expectations keep you on the path to a PhD*
+  * https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/2015739.article
+* *“So long, and thanks for the Ph.D.!” a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later.* by Ronald T. Azuma
+  * https://www.cs.unc.edu/~azuma/hitch4.html
 
-# ON "HOW"
+
+# On how
 ## Overall 
 * *A Survival Guide to a PhD* by Andrej Karpathy
   * http://karpathy.github.io/2016/09/07/phd/
@@ -57,8 +60,6 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://pgbovine.net/early-stage-PhD-advice.htm
 * *Some Modest Advice for Graduate Students* by Stephen C. Stearn 
   * http://stearnslab.yale.edu/some-modest-advice-graduate-students
-* *Realistic expectations keep you on the path to a PhD*
-  * https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/2015739.article
 * *Advice for students and junior researchers* by Markus Jakobsson
   * http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers
 * *10 easy ways to fail a Ph.D.* by Matt Might
