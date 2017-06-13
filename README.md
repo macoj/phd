@@ -172,8 +172,10 @@ A working-in-progress list of resources on how/why to do a PhD.
 * https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf
 
 ## Getting an academic job
-* http://homes.cs.washington.edu/~mernst/advice/academic-job.html
-* https://www.cs.tufts.edu/~nr/students/job.html
+* *Getting an academic job* by Michael Ernst
+  * http://homes.cs.washington.edu/~mernst/advice/academic-job.html
+* *Tips for PhD students looking for faculty positions* by Norman Ramsey
+  * https://www.cs.tufts.edu/~nr/students/job.html
 
 ## Paper reviewing 
 * *Accepting an invitation to review* 
