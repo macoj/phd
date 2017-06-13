@@ -36,6 +36,8 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://www.cs.purdue.edu/homes/dec/essay.phd.html
 * *Tough love: An insensitive guide to thriving in your PhD* by Chris Chambers
   * http://neurochambers.blogspot.co.uk/2012/05/tough-love-insensitive-guide-to.html
+* *The single most practical reason for pursuing a Ph.D. that I can think of (and I've thought a lot about this topic!)* by Philip Guo
+  * http://pgbovine.net/practical-reason-to-pursue-PhD.htm
 * *Realistic expectations keep you on the path to a PhD*
   * https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/2015739.article
 * *“So long, and thanks for the Ph.D.!” a.k.a. Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later.* by Ronald T. Azuma
