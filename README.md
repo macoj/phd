@@ -183,7 +183,7 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://www.cs.tufts.edu/~nr/students/talks.html
 * *Maxims for Malfeasant Speakers* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/misc/badtalks.html
-* *How to Present a Paper in Theoretical Computer Science:A Speaker’s Guide for Students* by Ian Parberry 
+* *How to Present a Paper in Theoretical Computer Science: A Speaker’s Guide for Students* by Ian Parberry 
   * https://larc.unt.edu/ian/pubs/speaker.pdf
 * *How to Present a Paper:A Speaker’s Guide* by Bob Spillman and Ian Parberry  https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf
 
