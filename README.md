@@ -175,12 +175,17 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://www.comm.utoronto.ca/frank/guide/guide0.html
 * *The Short Talk* by Charles Van Loan
   * http://www.cs.cornell.edu/cv/ShortTalk.htm
-* http://www.cs.duke.edu/brd/Teaching/Giving-a-talk/giving-a-talk.html
-* http://pne.people.si.umich.edu/PDF/howtotalk.pdf
-* https://www.cs.tufts.edu/~nr/students/talks.html
-* https://www.cs.tufts.edu/~nr/misc/badtalks.html
-* https://larc.unt.edu/ian/pubs/speaker.pdf
-* https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf
+* *How to give a talk* by Bruce Randall Donald
+  * http://www.cs.duke.edu/brd/Teaching/Giving-a-talk/giving-a-talk.html
+* *How to Give an Academic Talk* by Paul N. Edwards
+  * http://pne.people.si.umich.edu/PDF/howtotalk.pdf
+* *Tips and Tricks for Giving Talks* by Norman Ramsey
+  * https://www.cs.tufts.edu/~nr/students/talks.html
+* *Maxims for Malfeasant Speakers* by Norman Ramsey
+  * https://www.cs.tufts.edu/~nr/misc/badtalks.html
+* *How to Present a Paper in Theoretical Computer Science:A Speaker’s Guide for Students* by Ian Parberry 
+  * https://larc.unt.edu/ian/pubs/speaker.pdf
+* *How to Present a Paper:A Speaker’s Guide* by Bob Spillman and Ian Parberry  https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf
 
 ## Getting an academic job
 * *Getting an academic job* by Michael Ernst
