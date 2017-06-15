@@ -159,16 +159,22 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf
 
 ## Presentations
+* *How to give a great research talk* by Simon Peyton Jones
+  * https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/
 * *How to give a technical presentation (how to give a scientific talk)* by Michael Ernst
   * http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
 * *Communication in Computer Science: Reviews, Papers, and Talks* by Olivier Danvy
   * http://users-cs.au.dk/danvy/tips-and-tricks.html
-* http://pages.cs.wisc.edu/~markhill/conference-talk.html
-* [presentation] http://www.cs.dartmouth.edu/~scot/givingTalks/
-* [includes video] https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/
-* http://njn.valgrind.org/good-talk.html
-* http://www.comm.utoronto.ca/frank/guide/guide0.html
-* http://www.cs.cornell.edu/cv/ShortTalk.htm
+* *Oral Presentation Advice* by Mark D. Hill
+  * http://pages.cs.wisc.edu/~markhill/conference-talk.html
+* *Giving Technical Talks* by Scot Drysdale
+  * http://www.cs.dartmouth.edu/~scot/givingTalks/
+* *Giving a Good Research Talk* by Nicholas Nethercote
+  * http://njn.valgrind.org/good-talk.html
+* *Giving a Talk* by Frank R. Kschischang
+  * http://www.comm.utoronto.ca/frank/guide/guide0.html
+* *The Short Talk* by Charles Van Loan
+  * http://www.cs.cornell.edu/cv/ShortTalk.htm
 * http://www.cs.duke.edu/brd/Teaching/Giving-a-talk/giving-a-talk.html
 * http://pne.people.si.umich.edu/PDF/howtotalk.pdf
 * https://www.cs.tufts.edu/~nr/students/talks.html
