@@ -159,8 +159,10 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf
 
 ## Presentations
-* http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
-* http://cs.au.dk/~danvy/talk.html
+* *How to give a technical presentation (how to give a scientific talk)* by Michael Ernst
+  * http://homes.cs.washington.edu/~mernst/advice/giving-talk.html
+* *Communication in Computer Science: Reviews, Papers, and Talks* by Olivier Danvy
+  * http://users-cs.au.dk/danvy/tips-and-tricks.html
 * http://pages.cs.wisc.edu/~markhill/conference-talk.html
 * [presentation] http://www.cs.dartmouth.edu/~scot/givingTalks/
 * [includes video] https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/
