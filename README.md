@@ -192,6 +192,10 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://homes.cs.washington.edu/~mernst/advice/academic-job.html
 * *Tips for PhD students looking for faculty positions* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/students/job.html
+* *How to write a killer cover letter for a postdoctoral application* by Bill Sullivan
+  * http://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=48927
+* *CVs and Cover Letters* by Office of Career Services - Harvard University 
+  * https://ocs.fas.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf
 
 ## Paper reviewing 
 * *Accepting an invitation to review* 
