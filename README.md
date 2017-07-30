@@ -187,16 +187,36 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://larc.unt.edu/ian/pubs/speaker.pdf
 * *How to Present a Paper:A Speaker’s Guide* by Bob Spillman and Ian Parberry  https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf
 
-## Getting an academic job
+## Academic job
+### Overall
 * *Getting an academic job* by Michael Ernst
   * http://homes.cs.washington.edu/~mernst/advice/academic-job.html
 * *Tips for PhD students looking for faculty positions* by Norman Ramsey
   * https://www.cs.tufts.edu/~nr/students/job.html
+* *Applying for a postdoc job? Here are 18 tips for a successful application*
+  * https://www.theguardian.com/higher-education-network/2015/feb/01/applying-for-a-postdoc-job-here-are-18-tips-for-a-successful-application
+* *A foot in the door* by Kendall Powell
+  * https://www.nature.com/naturejobs/science/articles/10.1038/nj7281-696a
+* *How Do I Apply for a Postdoc Position?*
+  * https://med.emory.edu/postdoc/documents/How%20do%20I%20apply%20for%20a%20Postdoc%20Position.pdf
+### Cover letters and CVs
 * *How to write a killer cover letter for a postdoctoral application* by Bill Sullivan
   * http://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=48927
 * *CVs and Cover Letters* by Office of Career Services - Harvard University 
   * https://ocs.fas.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf
-
+* *Writing a winning cover letter* by John K. Borchardt
+  * http://www.sciencemag.org/careers/2014/08/writing-winning-cover-letter
+* *CV Guide for PhD and Postdoctoral Researchers: Tailoring your CV for the Role.*
+  * https://www.ucc.ie/en/media/support/careers/nelie/postdoccvguide/CVGuideforPhDandPostdoctoralResearchers.pdf 
+* *How to Write an Academic Cover Letter With Examples* by Alison Doyle
+  * https://www.thebalance.com/how-to-write-an-academic-cover-letter-2060155
+* *Stanford PhD & Postdoc Career Guide* 
+  * https://beam.stanford.edu/sites/default/files/stanfordphd_cg15-161.pdf
+* *Documents for the Job Search: Put Your Qualifications in Writing*
+  * http://postdocs.cornell.edu/documents-job-search  
+* * Cover Letters for Academic Positions* 
+  * http://www.grad.illinois.edu/sites/default/files/pdfs/academiccoverletters.pdf 
+  
 ## Paper reviewing 
 * *Accepting an invitation to review* 
   * https://www.springer.com/gp/authors-editors/authorandreviewertutorials/howtopeerreview/accepting-an-invitation-to-review/10286396
