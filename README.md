@@ -15,8 +15,7 @@ A working-in-progress list of resources on how/why to do a PhD.
     - [General writing](#general-writing)
   - [Presentations](#presentations)
   - [Getting an academic job](#getting-an-academic-job)
-    - [Overall](#overall)
-    - [Cover letters and CVs](#Cover-letters-and-CVs)
+    - [Cover letters and CVs](#cover-letters-and-cvs)
   - [Paper reviewing](#paper-reviewing)
 - [English](#english)
   - [Collocation](#collocation)
@@ -190,7 +189,6 @@ A working-in-progress list of resources on how/why to do a PhD.
 * *How to Present a Paper:A Speaker’s Guide* by Bob Spillman and Ian Parberry  https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf
 
 ## Academic job
-### Overall
 * *Getting an academic job* by Michael Ernst
   * http://homes.cs.washington.edu/~mernst/advice/academic-job.html
 * *Tips for PhD students looking for faculty positions* by Norman Ramsey
