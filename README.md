@@ -14,7 +14,7 @@ A working-in-progress list of resources on how/why to do a PhD.
     - [Grant proposal writing](#grant-proposal-writing)
     - [General writing](#general-writing)
   - [Presentations](#presentations)
-  - [Getting an academic job](#getting-an-academic-job)
+  - [Getting an academic job](#academic-job)
     - [Cover letters and CVs](#cover-letters-and-cvs)
   - [Paper reviewing](#paper-reviewing)
 - [English](#english)
