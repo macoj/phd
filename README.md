@@ -214,8 +214,20 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://beam.stanford.edu/sites/default/files/stanfordphd_cg15-161.pdf
 * *Documents for the Job Search: Put Your Qualifications in Writing*
   * http://postdocs.cornell.edu/documents-job-search  
-* * Cover Letters for Academic Positions* 
+* *Cover Letters for Academic Positions* 
   * http://www.grad.illinois.edu/sites/default/files/pdfs/academiccoverletters.pdf 
+* *10 Tips to Help You Write a Better Cover Letter*
+  * http://www.lifehack.org/articles/work/10-tips-for-better-cover-letter.html
+* *How to Write a Cover Letter: 31 Tips You Need to Know*
+  * https://www.themuse.com/advice/how-to-write-a-cover-letter-31-tips-you-need-to-know
+* *How to write a cover letter people will actually read\*
+  * https://www.nytimes.com/2016/10/22/business/how-to-write-a-cover-letter-that-stands-out.html
+* **
+  * https://www.jobscan.co/blog/how-to-write-a-cover-letter/
+* *How to Write a Cover Letter* by Amy Gallo
+  * https://hbr.org/2014/02/how-to-write-a-cover-letter
+* *Writing a Successful Cover Letter*
+  * http://www.columbia.edu/cu/tat/pdfs/cover%20letter.pdf
   
 ## Paper reviewing 
 * *Accepting an invitation to review* 
