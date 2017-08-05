@@ -15,6 +15,8 @@ A working-in-progress list of resources on how/why to do a PhD.
     - [General writing](#general-writing)
   - [Presentations](#presentations)
   - [Getting an academic job](#getting-an-academic-job)
+    - [Overall](#overall)
+    - [Cover letters and CVs](#Cover-letters-and-CVs)
   - [Paper reviewing](#paper-reviewing)
 - [English](#english)
   - [Collocation](#collocation)
@@ -222,7 +224,7 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://www.themuse.com/advice/how-to-write-a-cover-letter-31-tips-you-need-to-know
 * *How to write a cover letter people will actually read\*
   * https://www.nytimes.com/2016/10/22/business/how-to-write-a-cover-letter-that-stands-out.html
-* **
+* *10 Tips for a Better Cover Letter*
   * https://www.jobscan.co/blog/how-to-write-a-cover-letter/
 * *How to Write a Cover Letter* by Amy Gallo
   * https://hbr.org/2014/02/how-to-write-a-cover-letter
