@@ -105,7 +105,7 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://science.sciencemag.org/content/325/5942/828
 * *How to  Read a Book* by Paul N. Edwards
   * http://pne.people.si.umich.edu/PDF/howtoread.pdf
-
+  
 ## On Writing
 ### Proposal writing
 * *On Ph.D. thesis proposals in computing science* by H. C. Lauer 
@@ -158,6 +158,18 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://www.cs.tufts.edu/~nr/pubs/learn.pdf
 * *Writing Tips for Ph.  D. Students* by John H. Cochrane
   * https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf
+  
+### Writing research questions
+* *Types of quantitative research question*
+  * http://dissertation.laerd.com/types-of-quantitative-research-question.php
+* *Developing Research Questions* by Dissertation Recipes
+  * http://dissertationrecipes.com/wp-content/uploads/2011/04/Developing-Research-Questions.pdf 
+* *Writing a Good Research Question* by Center for Innovation in Research and Teaching
+  * https://cirt.gcu.edu/research/developmentresources/tutorials/question
+* *Narrowing a Topic and Developing a Research Question*
+  * https://libraries.indiana.edu/sites/default/files/Develop_a_Research_Question.pdf
+* *Research Questions and Hypotheses*
+  * https://www.sagepub.com/sites/default/files/upm-binaries/22782_Chapter_7.pdf
 
 ## Presentations
 * *How to give a great research talk* by Simon Peyton Jones
