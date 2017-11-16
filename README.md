@@ -131,7 +131,13 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html
 * *Design:The Key to Writing (and Advising) a One-Draft Ph.D Dissertation* by John V. Carlis
   * http://www-users.cs.umn.edu/~carlis/one-draft.pdf
-
+* *A GUIDE TO WRITING YOUR MASTERS DISSERTATION*
+  * http://www2.hw.ac.uk/sml/postgraduate/downloads/dissertations/dissertationguide.pdf
+* *GUIDELINES FOR FORMAT AND CONTENT OF THE DISSERTATION*
+  * http://semo.edu/education/images/EduLead_DissertGuide_2007.pdf
+* *Mastering Your Ph.D.: Writing Your Doctoral Thesis With Style* By Patricia Gosling, Bart Noordam
+  * http://www.sciencemag.org/careers/2007/12/mastering-your-phd-writing-your-doctoral-thesis-style
+  
 ### Research paper writing 
 * *11 steps to structuring a science paper editors will take seriously* by Angel Borja 
   * https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously
