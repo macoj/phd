@@ -275,6 +275,7 @@ A working-in-progress list of resources on how/why to do a PhD.
 ## Science 
 * Chalmers, Alan F. What is this thing called science?. Hackett Publishing, 2013.
 * Okasha, Samir. Philosophy of Science: Very Short Introduction. Oxford University Press, 2016.
+* Feynman, Richard P. The meaning of it all: Thoughts of a citizen-scientist. Addison-Wesley, 1998.
 
 ## Writing Science
 * Schimiel, J. (2011). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded. Oxford University Press. 
