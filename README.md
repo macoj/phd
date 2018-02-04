@@ -14,6 +14,7 @@ A working-in-progress list of resources on how/why to do a PhD.
     - [Grant proposal writing](#grant-proposal-writing)
     - [General writing](#general-writing)
     - [Writing research questions](#writing-research-questions)
+    - [Cover letter for journal submission](#Cover-letter-for-journal-submission)
   - [Presentations](#presentations)
   - [Getting an academic job](#academic-job)
     - [Cover letters and CVs](#cover-letters-and-cvs)
@@ -177,6 +178,20 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://libraries.indiana.edu/sites/default/files/Develop_a_Research_Question.pdf
 * *Research Questions and Hypotheses*
   * https://www.sagepub.com/sites/default/files/upm-binaries/22782_Chapter_7.pdf
+
+### Cover letter for journal submission
+* *Cover letters* by Springer
+  * https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574
+* *I really think you should publish this paper: the cover letter to the editor* by M John
+  * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3484622/ 
+* *Writing Cover Letters for Scientific Manuscripts*  
+  * http://www.biosciencewriters.com/Writing-Cover-Letters-for-Scientific-Manuscripts.aspx
+* *Writing the cover letter for a Science Magazine submission* by David F. Raikow
+  * https://rivercontinua.wordpress.com/2009/03/02/writing-the-cover-letter-for-a-science-magazine-submission/
+* *Submitting your manuscript: Write the right cover letter* by Catarina Sacristán*
+  * http://crosstalk.cell.com/blog/submitting-your-manuscript-write-the-right-cover-letter
+*  *How to write a great cover letter for a scientific manuscript* by Anne Altor
+  * http://precisionscienceediting.com/tips/write-great-cover-letter-scientific-manuscript/
 
 ## Presentations
 * *How to give a great research talk* by Simon Peyton Jones
