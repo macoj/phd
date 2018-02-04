@@ -190,7 +190,7 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://rivercontinua.wordpress.com/2009/03/02/writing-the-cover-letter-for-a-science-magazine-submission/
 * *Submitting your manuscript: Write the right cover letter* by Catarina Sacristán*
   * http://crosstalk.cell.com/blog/submitting-your-manuscript-write-the-right-cover-letter
-*  *How to write a great cover letter for a scientific manuscript* by Anne Altor
+* *How to write a great cover letter for a scientific manuscript* by Anne Altor
   * http://precisionscienceediting.com/tips/write-great-cover-letter-scientific-manuscript/
 
 ## Presentations
