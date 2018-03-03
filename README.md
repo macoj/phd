@@ -154,6 +154,8 @@ A working-in-progress list of resources on how/why to do a PhD.
   * http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html
 * *Writing Technical Articles* by Henning Schulzrinne
   * http://www.cs.columbia.edu/~hgs/etc/writing-style.html
+* *How to get published in Nature (and its sister journals)* by Ed Gerstner
+  * http://ord.ntu.edu.tw/tc/includes/GetFile.ashx?mID=253&id=1744&chk=e15262f3-87bf-4a7e-be6a-4103cbc61968
 
 ### Grant proposal writing
 * *How to write a great research proposal* by Simon Peyton Jones and Alan Bundy
