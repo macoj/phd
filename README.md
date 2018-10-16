@@ -16,6 +16,7 @@ A working-in-progress list of resources on how/why to do a PhD.
     - [Writing research questions](#writing-research-questions)
     - [Cover letter for journal submission](#cover-letter-for-journal-submission)
   - [Presentations](#presentations)
+  - [Poster presentations](#poster-presentations)
   - [Getting an academic job](#academic-job)
     - [Cover letters and CVs](#cover-letters-and-cvs)
   - [Paper reviewing](#paper-reviewing)
