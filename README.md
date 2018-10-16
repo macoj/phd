@@ -224,6 +224,16 @@ A working-in-progress list of resources on how/why to do a PhD.
   * https://larc.unt.edu/ian/pubs/speaker.pdf
 * *How to Present a Paper:A Speaker’s Guide* by Bob Spillman and Ian Parberry  https://www.sfu.ca/~jeffpell/Ling480/ParberryMembrane.pdf
 
+## Poster presentation
+* *Ten Simple Rules for a Good Poster Presentation* by Thomas C Erren and Philip E Bourne
+  * https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030102
+* *Do's and Don'ts of Poster Presentation* by Steven M. Block
+  * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1233841/pdf/biophysj00042-0617.pdf
+* *Preparing and Presenting Effective Research Posters* by Jane E. Miller
+  * https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6773.2006.00588.x
+* *Tips on poster presentations at professional conference* by Scott W. Plunkett 
+  * http://www.csun.edu/plunk/documents/poster_presentation.pdf
+
 ## Academic job
 * *Getting an academic job* by Michael Ernst
   * http://homes.cs.washington.edu/~mernst/advice/academic-job.html
